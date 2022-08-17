@@ -1,4 +1,3 @@
 class ApplicationController < ActionController::Base
-  def pages
-  end
+  def pages; end
 end
